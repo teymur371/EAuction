@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\EAuction.deps.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\EAuction.runtimeconfig.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\EAuction.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\EAuction.dll
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\source\repos\EAuction\EAuction\bin\Debug\netcoreapp2.2\EAuction.pdb
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.dll
+C:\Users\Asus\source\repos\EAuction\EAuction\obj\Debug\netcoreapp2.2\EAuction.pdb
