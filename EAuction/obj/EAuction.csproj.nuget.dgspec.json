@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Source\\Repos\\EAuction\\EAuction\\EAuction.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\EAuction\\EAuction\\EAuction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Source\\Repos\\EAuction\\EAuction\\EAuction.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\EAuction\\EAuction\\EAuction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\EAuction\\EAuction\\EAuction.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\EAuction\\EAuction\\EAuction.csproj",
         "projectName": "EAuction",
-        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\EAuction\\EAuction\\EAuction.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\EAuction\\EAuction\\EAuction.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\EAuction\\EAuction\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\EAuction\\EAuction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
