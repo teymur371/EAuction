@@ -56,6 +56,7 @@ namespace EAuction.Services
                 Description = dto.Description,
                 StartPrice = dto.StartPrice,
             };
+            await _context.AddAsync(newItem);
             return newItem;
         }
     }

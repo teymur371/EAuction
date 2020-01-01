@@ -40,12 +40,11 @@ namespace EAuction.Controllers
 
         [HttpGet]
         [Route("RemoveItem")]
-        public async Task<int> DeleteItem (int itemId)
+        public async Task<IActionResult> DeleteItem (int itemId)
         {
             var deletableItemId = await _itemService.RemoveItem(itemId);
-            _context.Items.Remove(await _context.Items.FindAsync(deletableItemId));
             await _context.SaveChangesAsync();
-            return deletableItemId;
+            return Ok(deletableItemId);
             
         }
 
@@ -62,7 +61,6 @@ namespace EAuction.Controllers
         public async Task<IActionResult> CreateItem(CreateItemDto dto)
         {
             var newItem = await _itemService.CreateItem(dto);
-            await _context.Items.AddAsync(newItem);
             await _context.SaveChangesAsync();
             return Ok(newItem);
         }
