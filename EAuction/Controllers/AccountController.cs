@@ -8,8 +8,8 @@ namespace EAuction.Controllers
 {
     public class AccountController : Controller
     {
-        private UserManager<IdentityUser> _userManager { get; }
-        private SignInManager<IdentityUser> _signInManager { get; }
+        private readonly UserManager<IdentityUser> _userManager;
+        private readonly SignInManager<IdentityUser> _signInManager;
         public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
             _userManager = userManager;
