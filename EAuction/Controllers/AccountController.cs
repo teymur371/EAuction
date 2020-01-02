@@ -20,7 +20,7 @@ namespace EAuction.Controllers
         [Route("Register")]
         public async Task<IActionResult> Register(RegisterUserDto dto)
         {
-            var errors = new List<string>();
+            List<string> errors = new List<string>();
             if (ModelState.IsValid)
             {
                 var user = new IdentityUser()
